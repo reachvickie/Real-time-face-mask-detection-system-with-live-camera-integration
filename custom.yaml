@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Project/Train
+val: /content/drive/MyDrive/Project/Val
+
+nc: 2
+names: ['no_mask','mask']
